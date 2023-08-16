@@ -1,5 +1,3 @@
-
-        //getting all elements of html in js
         let song_image = document.getElementById("cover_photo")
         let song_title = document.getElementById("title")
         let song_play = document.getElementById("play")
