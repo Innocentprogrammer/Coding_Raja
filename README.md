@@ -6,4 +6,4 @@ In This Repository I make Three Folder are Follow as:
 2)Portfolio:-In this folder I make my portfolio which has short discription of my professional life, services, and blogs. It contain three file of HTML, CSS & JAVASCRIPT.
 3)Random_Quote_Generator:- In this folder I make a worderful website which can show you random quote always if you refresh or click next button. It contain three file of HTML, CSS & JAVASCRIPT.
 
-I attach the Image(Screenshots) for the Projects.
+I attach the Image(Screenshots) for these Projects.
