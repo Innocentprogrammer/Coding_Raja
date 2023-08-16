@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#joke{
+    background-color: #8af89e;
+    color: #333;
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-align: center;
+    /* width: 70%;
+    margin: 15%;
+    margin-top: 20%; */
+}
+
+.joke{
+    background-color: #8af89e;
+    border-radius: 30px;
+    color: #333;
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-align: center;
+    width: 70%;
+    margin: 15%;
+    margin-top: 15%;
+}
+
+#ref{
+    padding: 10px;
+    font-size: 1.0em;
+    border-radius: 10px;
+    background-color: #2b0346;
+    color: white;
+}
+
